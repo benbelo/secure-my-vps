@@ -1,5 +1,7 @@
 # secure-my-vps
 
+> Codé avec aide IA / Coded with AI help
+
 Script to harden a freshly deployed Debian-based VPS.
 
 ## What it does
